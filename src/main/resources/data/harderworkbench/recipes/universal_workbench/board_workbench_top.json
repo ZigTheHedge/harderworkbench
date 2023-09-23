@@ -1,0 +1,23 @@
+{
+  "type": "harderworkbench:universal_workbench_recipe",
+  "materials": [
+    {
+      "item": "harderworkbench:board_generic"
+    },
+    {
+      "item": "harderworkbench:potato_glue"
+    },
+    {
+      "item": "harderworkbench:board_generic"
+    }
+  ],
+  "tool_slot": {
+    "item": "harderworkbench:hammer"
+  },
+  "outputs":[
+    {
+      "item": "harderworkbench:board_workbench_top"
+    }
+  ],
+  "damage_source": true
+}

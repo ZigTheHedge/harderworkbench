@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "harderworkbench:crude_workbench_top"
+    },
+    "B": {
+      "item": "harderworkbench:stand_full"
+    }
+  },
+  "pattern": [
+    "A",
+    "B"
+  ],
+  "result": {
+    "item": "harderworkbench:crude_workbench_three_thirds"
+  }
+
+}

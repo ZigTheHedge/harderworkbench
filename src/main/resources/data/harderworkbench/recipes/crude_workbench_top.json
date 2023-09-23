@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "harderworkbench:yellow_flint"
+    },
+    "B": {
+      "item": "harderworkbench:bark_workbench_top"
+    }
+  },
+  "pattern": [
+    "A",
+    "B"
+  ],
+  "result": {
+    "item": "harderworkbench:crude_workbench_top"
+  }
+
+}

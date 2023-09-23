@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.15,
+  "ingredient": {
+    "item": "harderworkbench:potato_in_bucket"
+  },
+  "result": "harderworkbench:potato_glue"
+}

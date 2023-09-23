@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "minecraft:anvil"
+    },
+    "B": {
+      "tag": "minecraft:planks"
+    },
+    "C": {
+      "tag": "minecraft:logs"
+    },
+    "D": {
+      "item": "minecraft:smooth_stone"
+    },
+    "E": {
+      "item": "minecraft:smooth_stone_slab"
+    },
+    "F": {
+      "item": "minecraft:deepslate"
+    }
+  },
+  "pattern": [
+    " CB",
+    "AFB",
+    "EDE"
+  ],
+  "result": {
+    "item": "harderworkbench:universal_workbench"
+  }
+
+}

@@ -1,0 +1,18 @@
+{
+  "type": "harderworkbench:universal_workbench_recipe",
+  "materials": [
+    {
+      "tag": "minecraft:planks"
+    }
+  ],
+  "tool_slot": {
+    "item": "harderworkbench:handsaw"
+  },
+  "outputs":[
+    {
+      "item": "harderworkbench:board_generic",
+      "count": 4
+    }
+  ],
+  "damage_source": true
+}

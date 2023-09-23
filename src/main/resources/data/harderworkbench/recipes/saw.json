@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "tag": "forge:rods/wooden"
+    },
+    "D": {
+      "item": "harderworkbench:darkiron_ingot"
+    },
+    "Y": {
+      "tag": "forge:dyes/yellow"
+    },
+    "R": {
+      "tag": "forge:dyes/red"
+    }
+  },
+  "pattern": [
+    "  D",
+    "RDD",
+	"SY "
+  ],
+  "result": {
+    "item": "harderworkbench:handsaw"
+  }
+
+}

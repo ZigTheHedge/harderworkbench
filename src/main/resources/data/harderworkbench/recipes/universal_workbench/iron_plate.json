@@ -1,0 +1,17 @@
+{
+  "type": "harderworkbench:universal_workbench_recipe",
+  "materials": [
+    {
+      "tag": "forge:ingots/iron"
+    }
+  ],
+  "tool_slot": {
+    "item": "harderworkbench:hammer"
+  },
+  "outputs":[
+    {
+      "item": "harderworkbench:iron_plate"
+    }
+  ],
+  "damage_source": true
+}

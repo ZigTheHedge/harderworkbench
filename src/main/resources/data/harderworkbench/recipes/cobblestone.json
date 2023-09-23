@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "harderworkbench:small_rock"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+	"###"
+  ],
+  "result": {
+    "item": "minecraft:cobblestone"
+  }
+
+}

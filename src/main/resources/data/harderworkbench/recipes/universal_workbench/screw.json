@@ -1,0 +1,21 @@
+{
+  "type": "harderworkbench:universal_workbench_recipe",
+  "materials": [
+    {
+      "item": "harderworkbench:nail"
+    },
+    {
+      "item": "harderworkbench:nail"
+    }
+  ],
+  "tool_slot": {
+    "item": "harderworkbench:hammer"
+  },
+  "outputs":[
+    {
+      "item": "harderworkbench:screw",
+	  "count": 2
+    }
+  ],
+  "damage_source": true
+}

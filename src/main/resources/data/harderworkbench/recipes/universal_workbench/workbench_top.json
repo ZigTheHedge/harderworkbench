@@ -1,0 +1,20 @@
+{
+  "type": "harderworkbench:universal_workbench_recipe",
+  "materials": [
+    {
+      "item": "harderworkbench:brown_flint"
+    },
+    {
+      "item": "harderworkbench:board_workbench_top"
+    }
+  ],
+  "tool_slot": {
+    "item": "harderworkbench:hammer"
+  },
+  "outputs":[
+    {
+      "item": "harderworkbench:workbench_top"
+    }
+  ],
+  "damage_source": true
+}

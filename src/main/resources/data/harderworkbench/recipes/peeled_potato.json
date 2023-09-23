@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "tag": "forge:crops/potato"
+    },
+    "B": {
+      "item": "harderworkbench:crude_knife"
+    }
+  },
+  "pattern": [
+    "BA"
+  ],
+  "result": {
+    "item": "harderworkbench:peeled_potato"
+  }
+
+}

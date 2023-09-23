@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "harderworkbench:item/handsaw"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [0, 90, 0]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [0, 90, 0]
+    },
+    "firstperson_righthand": {
+      "rotation": [0, 90, 0]
+    },
+    "firstperson_lefthand": {
+      "rotation": [0, 90, 0]
+    }
+  }
+}

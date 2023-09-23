@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "tag": "forge:rods/wooden"
+    },
+    "F": {
+      "item": "minecraft:flint"
+    },
+    "R": {
+      "tag": "forge:dyes/red"
+    },
+    "Y": {
+      "tag": "forge:dyes/yellow"
+    }
+  },
+  "pattern": [
+    "RF",
+    "SY"
+  ],
+  "result": {
+    "item": "harderworkbench:crude_knife"
+  }
+
+}

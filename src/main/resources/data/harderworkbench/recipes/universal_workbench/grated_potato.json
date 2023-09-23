@@ -1,0 +1,23 @@
+{
+  "type": "harderworkbench:universal_workbench_recipe",
+  "materials": [
+    {
+      "item": "harderworkbench:peeled_potato"
+    },
+    {
+      "item": "harderworkbench:peeled_potato"
+    },
+    {
+      "item": "harderworkbench:peeled_potato"
+    }
+  ],
+  "tool_slot": {
+    "item": "harderworkbench:crude_grate"
+  },
+  "outputs":[
+    {
+      "item": "harderworkbench:grated_potato"
+    }
+  ],
+  "damage_source": true
+}

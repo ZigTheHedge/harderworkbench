@@ -1,0 +1,20 @@
+{
+  "type": "harderworkbench:universal_workbench_recipe",
+  "materials": [
+    {
+      "tag": "forge:plates/iron"
+    },
+    {
+      "tag": "forge:plates/iron"
+    }
+  ],
+  "tool_slot": {
+    "item": "harderworkbench:handdrill"
+  },
+  "outputs":[
+    {
+      "item": "harderworkbench:hinge"
+    }
+  ],
+  "damage_source": true
+}

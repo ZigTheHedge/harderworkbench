@@ -1,0 +1,18 @@
+{
+  "type": "harderworkbench:add_item",
+  "conditions": [
+    {
+		"condition": "block_state_property",
+		"block": "minecraft:grass"
+    },
+	{
+		"condition": "minecraft:match_tool",
+		"predicate": {
+			"items": [
+				"harderworkbench:crude_knife"
+			]
+		}
+	}
+  ],
+  "item": "harderworkbench:loose_grass"
+}

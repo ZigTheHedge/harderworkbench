@@ -1,0 +1,8 @@
+{
+  "variants": {
+	"condition=three_thirds": { "model": "harderworkbench:block/crude_workbench_whole" },
+	"condition=two_thirds": { "model": "harderworkbench:block/crude_workbench_stage_1" },
+	"condition=one_third": { "model": "harderworkbench:block/crude_workbench_stage_2" },
+	"condition=broken": { "model": "harderworkbench:block/crude_workbench_stage_broken" }
+  }
+}

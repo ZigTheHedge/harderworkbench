@@ -1,0 +1,23 @@
+{
+  "type": "harderworkbench:universal_workbench_recipe",
+  "materials": [
+    {
+      "item": "harderworkbench:screw"
+	},
+	{	  
+      "item": "harderworkbench:hinge"
+	},
+	{	  
+      "item": "harderworkbench:board_box"
+    }
+  ],
+  "tool_slot": {
+    "item": "harderworkbench:screwdriver"
+  },
+  "outputs":[
+    {
+      "item": "harderworkbench:board_box_hinge"
+    }
+  ],
+  "damage_source": true
+}

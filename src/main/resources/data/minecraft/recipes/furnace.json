@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "minecraft:stone_crafting_materials"
+    },
+    "C": {
+      "item": "harderworkbench:cobbled_brick"
+    }
+  },
+  "pattern": [
+    "###",
+    "CCC",
+    "CCC"
+  ],
+  "result": {
+    "item": "minecraft:furnace"
+  }
+}

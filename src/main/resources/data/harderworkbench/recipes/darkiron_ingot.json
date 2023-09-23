@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.15,
+  "ingredient": {
+    "tag": "forge:ingots/iron"
+  },
+  "result": "harderworkbench:darkiron_ingot"
+}

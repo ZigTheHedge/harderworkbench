@@ -1,0 +1,17 @@
+{
+  "type": "harderworkbench:universal_workbench_recipe",
+  "materials": [
+    {
+      "item": "harderworkbench:iron_plate"
+    }
+  ],
+  "tool_slot": {
+    "item": "harderworkbench:scissors"
+  },
+  "outputs":[
+    {
+      "item": "harderworkbench:iron_strips"
+    }
+  ],
+  "damage_source": true
+}

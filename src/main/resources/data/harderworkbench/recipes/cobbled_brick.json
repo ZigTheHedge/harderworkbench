@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "tag": "minecraft:sand"
+    },
+    "R": {
+      "item": "harderworkbench:small_rock"
+    },
+    "C": {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "pattern": [
+    "RCR",
+    "SRS",
+	"RCR"
+  ],
+  "result": {
+    "item": "harderworkbench:cobbled_brick"
+  }
+
+}

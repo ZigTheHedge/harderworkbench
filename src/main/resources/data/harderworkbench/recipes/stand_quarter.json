@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "tag": "forge:string"
+    },
+    "B": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "pattern": [
+    "AB",
+    "B "
+  ],
+  "result": {
+    "item": "harderworkbench:stand_quarter"
+  }
+
+}
