@@ -2,7 +2,7 @@
   "type": "harderworkbench:universal_workbench_recipe",
   "materials": [
     {
-      "item": "harderworkbench:iron_plate"
+      "tag": "forge:plates/iron"
     }
   ],
   "tool_slot": {
