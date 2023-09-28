@@ -21,6 +21,7 @@ import net.minecraft.world.item.crafting.RecipeSerializer;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.entity.BlockEntityType;
 import net.minecraft.world.level.block.state.BlockBehaviour;
+import net.minecraft.world.level.levelgen.feature.configurations.OreConfiguration;
 import net.minecraft.world.level.material.Material;
 import net.minecraftforge.common.extensions.IForgeMenuType;
 import net.minecraftforge.common.loot.IGlobalLootModifier;
@@ -127,7 +128,7 @@ public class Registries {
         SERIALIZERS.register(bus);
         MENUS.register(bus);
         LOOT_MODS.register(bus);
-
+        
         /*
         BLOCK_ENTITIES.register(bus);
         CONTAINERS.register(bus);

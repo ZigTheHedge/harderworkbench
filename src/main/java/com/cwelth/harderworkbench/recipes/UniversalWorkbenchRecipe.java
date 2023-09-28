@@ -93,7 +93,7 @@ public class UniversalWorkbenchRecipe implements Recipe<SimpleContainer> {
 
     @Override
     public ItemStack getResultItem() {
-        return null;
+        return output.get(0);
     }
 
     @Override

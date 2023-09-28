@@ -56,9 +56,13 @@ public class CrudeWorkbenchScreen extends AbstractContainerScreen<CrudeWorkbench
             this.recipeBookComponent.renderGhostRecipe(pPoseStack, this.leftPos, this.topPos, true, pPartialTick);
         }
 
+        int i = this.leftPos;
+        int j = this.topPos;
+
         this.renderTooltip(pPoseStack, pMouseX, pMouseY);
         this.recipeBookComponent.renderTooltip(pPoseStack, this.leftPos, this.topPos, pMouseX, pMouseY);
-        this.font.draw(pPoseStack, Component.translatable("gui.crudeworkbench.usesleft", menu.getUsesLeft()), 220, 95, 4210752);
+        int x = (width - imageWidth) / 2;
+        this.font.draw(pPoseStack, Component.translatable("gui.crudeworkbench.usesleft", menu.getUsesLeft()), i + 100, j + 60, 4210752);
     }
 
     protected void renderBg(PoseStack pPoseStack, float pPartialTick, int pX, int pY) {

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "T": {
+      "item": "harderworkbench:board_workbench_top"
+    },
+    "M": {
+      "item": "harderworkbench:board_square"
+    },
+    "B": {
+      "item": "harderworkbench:board_box"
+    }
+  },
+  "pattern": [
+    "T",
+    "M",
+    "B"
+  ],
+  "result": {
+    "item": "minecraft:barrel"
+  }
+}
